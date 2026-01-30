@@ -24,4 +24,5 @@ Current TRL: 3–4 (Research, proof of concept, early prototype)
 ## Project Status
 Early development / prototype phase.
 
-## тест
+## Инициализиране на проекта и структурата
+Инициализиране на проекта и структурата
